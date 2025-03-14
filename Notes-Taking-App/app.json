@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Note-App",
-    "slug": "Note-App",
+    "name": "Notes-Taking-App",
+    "slug": "Notes-Taking-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
